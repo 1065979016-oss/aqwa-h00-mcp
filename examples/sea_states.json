@@ -1,0 +1,20 @@
+[
+  {
+    "case_name": "示例 0°",
+    "sea_state": {"hs_m": 0.5, "tp_s": 12.5, "gamma": 3.3, "direction_deg": 0},
+    "source_kind": "commissioning",
+    "source_note": "公开演示工况；响应为合成示例，不是求解结果。"
+  },
+  {
+    "case_name": "示例 90°",
+    "sea_state": {"hs_m": 0.5, "tp_s": 12.5, "gamma": 3.3, "direction_deg": 90},
+    "source_kind": "commissioning",
+    "source_note": "公开演示工况；响应为合成示例，不是求解结果。"
+  },
+  {
+    "case_name": "频带不足对照",
+    "sea_state": {"hs_m": 0.5, "tp_s": 9, "gamma": 1, "direction_deg": 0},
+    "source_kind": "commissioning",
+    "source_note": "演示筛查：高频端不足，不生成响应。"
+  }
+]

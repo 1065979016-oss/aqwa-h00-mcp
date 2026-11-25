@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 344" role="img" aria-labelledby="title desc">
+<title id="title">H00 roll and pitch standard deviation – synthetic replay</title>
+<desc id="desc">Two synthetic example sea states show different roll and pitch motion. No AQWA run.</desc>
+<rect width="880" height="344" fill="#f1f5f9" rx="16"/>
+<g font-family="system-ui, sans-serif" fill="#102941">
+<text x="34" y="45" font-size="26" font-weight="700">H00 · Frequency-domain batch automation</text>
+<text x="34" y="75" font-size="15" fill="#465d73">OFFLINE REPLAY · SYNTHETIC EXAMPLE · NO AQWA SOLVE</text>
+<rect x="34" y="100" width="392" height="178" rx="10" fill="white" stroke="#d7e1eb"/>
+<text x="51" y="133" font-size="18" font-weight="650">Roll standard deviation (deg)</text>
+<text x="51" y="175" font-size="14">0° heading</text>
+<rect x="150" y="160" width="207" height="17" rx="3" fill="#e6eef5"/>
+<rect x="150" y="160" width="4.347" height="17" rx="3" fill="#117c83"/>
+<text x="365" y="174" font-size="13">0.021</text>
+<text x="51" y="215" font-size="14">90° heading</text>
+<rect x="150" y="200" width="207" height="17" rx="3" fill="#e6eef5"/>
+<rect x="150" y="200" width="190.440" height="17" rx="3" fill="#117c83"/>
+<text x="365" y="214" font-size="13">0.920</text>
+<text x="150" y="261" font-size="12" fill="#465d73">Common scale: 0–1°</text>
+<rect x="454" y="100" width="392" height="178" rx="10" fill="white" stroke="#d7e1eb"/>
+<text x="471" y="133" font-size="18" font-weight="650">Pitch standard deviation (deg)</text>
+<text x="471" y="175" font-size="14">0° heading</text>
+<rect x="570" y="160" width="207" height="17" rx="3" fill="#e6eef5"/>
+<rect x="570" y="160" width="163.530" height="17" rx="3" fill="#315ea9"/>
+<text x="785" y="174" font-size="13">0.790</text>
+<text x="471" y="215" font-size="14">90° heading</text>
+<rect x="570" y="200" width="207" height="17" rx="3" fill="#e6eef5"/>
+<rect x="570" y="200" width="53.820" height="17" rx="3" fill="#315ea9"/>
+<text x="785" y="214" font-size="13">0.260</text>
+<text x="570" y="261" font-size="12" fill="#465d73">Common scale: 0–1°</text>
+<text x="34" y="314" font-size="15" fill="#465d73">2 example results · 1 out-of-band case rejected in preflight</text></g></svg>

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "aqwa-h00": {
+      "command": "<absolute-path-to-your-python>",
+      "args": ["-B", "<absolute-path-to-this-repository>/mcp_server.py"]
+    }
+  }
+}
